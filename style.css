@@ -405,7 +405,7 @@ header {
   transform: rotateX(-90deg);
   transform-origin: bottom;
   transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  background-image: url(/image/idea_image.png);
+  background-image: url(image/idea_image.png);
 }
 
 .card:hover .card__content {
